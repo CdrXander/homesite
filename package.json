@@ -1,0 +1,22 @@
+{
+  "name": "homesite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CdrXander/homesite.git"
+  },
+  "author": "Xander Hacking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CdrXander/homesite/issues"
+  },
+  "homepage": "https://github.com/CdrXander/homesite#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
